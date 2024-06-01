@@ -52,4 +52,6 @@ This package relies on the following npm packages:
 - [gradient-string](https://www.npmjs.com/package/gradient-string): For creating gradient text.
 - [nanospinner](https://www.npmjs.com/package/nanospinner): For displaying spinners.
 
+## Maintainer
+
 - **Tuhin Poddar** - [GitHub](https://github.com/Tuhin114)
