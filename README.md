@@ -38,9 +38,9 @@ npx tuhin_poddar
 
 When you run the command, you will see a styled message that includes a gradient header, a personalized welcome message, and contact information.
 
-[!https://github.com/Tuhin114/NPM-Package/blob/main/assets/images/img1.png]
+[!https://github.com/Tuhin114/NPM-Package/blob/main/assets/images/img1.png?raw=true]
 
-[!https://github.com/Tuhin114/NPM-Package/blob/main/assets/images/img2.png]
+[!https://github.com/Tuhin114/NPM-Package/blob/main/assets/images/img2.png?raw=true]
 
 ## Dependencies
 
