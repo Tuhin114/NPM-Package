@@ -1,0 +1,30 @@
+{
+  "name": "tuhin_poddar",
+  "version": "0.1.2",
+  "description": "my first npm package",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuhin114/npm_tuhin_poddar.git"
+  },
+  "author": "Tuhin Poddar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuhin114/npm_tuhin_poddar/issues"
+  },
+  "homepage": "https://github.com/Tuhin114/npm_tuhin_poddar#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "cfonts": "^3.2.0",
+    "chalk": "^5.3.0",
+    "gradient-string": "^2.0.2",
+    "nanospinner": "^1.1.0"
+  }
+}
