@@ -1,10 +1,10 @@
-# `npx tuhin_poddar`
+# `tuhin_poddar`
 
 Welcome to `npx tuhin_poddar`! This package provides a personal CLI tool to display a styled introduction and contact information for Tuhin Poddar.
 
 ## Description
 
-The `npx tuhin_poddar` package is a CLI tool that displays a beautiful and interactive introduction to Tuhin Poddar, a Computer Science enthusiast with a focus on Web Development, Data Structures, Algorithms, and more. The tool utilizes various libraries to create a visually appealing output in the terminal.
+The `tuhin_poddar` package is a CLI tool that displays a beautiful and interactive introduction to Tuhin Poddar, a Computer Science enthusiast with a focus on Web Development, Data Structures, Algorithms, and more. The tool utilizes various libraries to create a visually appealing output in the terminal.
 
 ## Installation
 
